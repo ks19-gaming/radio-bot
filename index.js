@@ -126,4 +126,4 @@ console.log(`Ready ;)`)
 
 
 
-client.login(``)
+client.login(process.env.TOKEN)
